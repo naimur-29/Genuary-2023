@@ -4,16 +4,16 @@ All code from Genuary 2023 Speed2023un
 
 ## Links
 
-- [Live Stream on YouTube](https://www.youtube.com/watch?v=QyGG15J9bAc)
+- [Watch on YouTube](https://www.youtube.com/@naimur29)
 - [Genuary](https://genuary.art)
 
 ## Code
 
 ### January 1: Perfect loop / Infinite loop / endless GIFs
 
-![](GIFS/genuary01.gif)
+![](assets/jan%2001.gif)
 
-[Perfect loop / Infinite loop / endless GIFs](https://editor.p5js.org/codingtrain/sketches/BhqIXSyQA)
+[Perfect loop / Infinite loop / endless GIFs](https://github.com/naimur-29/Genuary-2023/blob/main/src/jan_01.js)
 
 ### January 2: Made in 10 minutes
 
@@ -149,7 +149,7 @@ All code from Genuary 2023 Speed2023un
     margin-left: auto;
     margin-right: auto;" width="400" height="400">
 
- [Yayoi Kusama](https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ)
+[Yayoi Kusama](https://editor.p5js.org/codingtrain/sketches/m7Pd2QfSQ)
 
 ### January 26: My kid could have made that
 
@@ -181,4 +181,4 @@ All code from Genuary 2023 Speed2023un
 
 ### January 31: Deliberately break one of your previous images
 
- [Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.](./genuary_31/)
+[Deliberately break one of your previous images, take one of your previous works and ruin it. Alternatively, remix one of your previous works.](./genuary_31/)
